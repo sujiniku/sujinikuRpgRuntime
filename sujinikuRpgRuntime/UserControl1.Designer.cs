@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace sujinikuRpgRuntime
 {
     partial class UserControl1
     {

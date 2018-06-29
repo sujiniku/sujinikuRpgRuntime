@@ -10,3 +10,16 @@ C:\Users\userz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sujiniku
 C:\Users\userz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sujinikuRpgRuntime.exe
 C:\Users\userz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sujinikuRpgRuntime.pdb
 C:\Users\userz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sujinikuRpgRuntime.csprojAssemblyReference.cache
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.csprojAssemblyReference.cache
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.Properties.Resources.resources
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.csproj.GenerateResource.cache
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.csproj.CoreCompileInputs.cache
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.exe
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.pdb
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\bin\Debug\sujinikuRpgRuntime.exe.config
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\bin\Debug\sujinikuRpgRuntime.exe
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\bin\Debug\sujinikuRpgRuntime.pdb
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.UserControl3.resources
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.Form1.resources
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.UserControl1.resources
+C:\Users\userz\source\repos\WindowsFormsApp1_test\sujinikuRpgRuntime\obj\Debug\sujinikuRpgRuntime.UserControl2.resources
