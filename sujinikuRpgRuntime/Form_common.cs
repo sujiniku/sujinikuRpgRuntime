@@ -22,6 +22,9 @@ namespace sujinikuRpgRuntime
         public static UserControl3_menu ctr_menu; // メニュー画面
         // public static tool_panel ctr4; // 道具選択の画面
 
+
+ public static int item1kosuu =5;
+
         public Form1()
         {
             InitializeComponent();

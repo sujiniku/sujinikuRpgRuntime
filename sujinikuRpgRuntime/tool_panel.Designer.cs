@@ -103,7 +103,7 @@
             this.kosuu1.Name = "kosuu1";
             this.kosuu1.Size = new System.Drawing.Size(41, 12);
             this.kosuu1.TabIndex = 6;
-            this.kosuu1.Text = "kosuu1";
+            this.kosuu1.Text = Form1.item1kosuu.ToString(); //"kosuu1";
             this.kosuu1.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // kosuu2
