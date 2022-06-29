@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace sujinikuRpgRuntime
 {
     public partial class Form1 : Form
@@ -23,7 +25,7 @@ namespace sujinikuRpgRuntime
         // public static tool_panel ctr4; // 道具選択の画面
 
 
- public static int item1kosuu =5;
+
 
         public Form1()
         {
@@ -47,7 +49,7 @@ namespace sujinikuRpgRuntime
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+           // Program.item1kosuu = 8;
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
